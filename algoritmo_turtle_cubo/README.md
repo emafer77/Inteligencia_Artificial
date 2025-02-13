@@ -57,3 +57,5 @@ python3 cubo.py
 ```
 
 Esto abrirá una ventana de `turtle` donde se dibujará el cubo.
+
+![cubo](cubo.png)
